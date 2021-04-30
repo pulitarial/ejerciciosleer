@@ -8,6 +8,6 @@ Algoritmo ejercicio_5
 	
 	escribir "introdusca la velocidad contratada: "
 	leer velocidad_promocional;
-	escribir "La velocidad relevante en realidad es de " (velocidad_promocional * CONVERSION_MEGABIT_A_MEGABYTE ) " megabytes"
+	escribir "La velocidad relevante contratada en realidad es de " (velocidad_promocional * CONVERSION_MEGABIT_A_MEGABYTE ) " megabytes"
 	
 FinAlgoritmo
